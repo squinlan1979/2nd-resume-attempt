@@ -1,4 +1,4 @@
-:##Siobhan K. Quinlan, Ph.D.:
+##Siobhan K. Quinlan, Ph.D.
 96 Livingston St., Apt 8, New Haven, CT     Siobhan.k.quinlan@gmail.com
 
 
@@ -10,4 +10,7 @@
 **Harvard University**, B.A. in Romance Languages and Literature, 2001
 
 ###Professional Experience
-**Yale University**, Department of Italian
+**Yale University**, Department of Italian 
+>*Lector* 2015-
+>>Teaching Introductory Italian and "Food and the Italian Cultural Imagination"
+>*Lecturer* 2014-2015
