@@ -11,9 +11,9 @@
 
 ###Professional Experience
 **Yale University**, Department of Italian 
->*Lector* 2015-
+>_*Lector*_ 2015-
 
->*Lecturer* 2014-2015
+>_*Lecturer*_ 2014-2015
 >>Teaching Introductory Italian and "Food and the Italian Cultural Imagination"
 
 >>Previous teaching includes all levels of Introductory and Intermediate Italian. 
