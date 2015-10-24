@@ -37,7 +37,9 @@
 *Research Associate* 2003-2005
 >Conducted in-depth biographical and financial research on donors, using LexisNexis and other sources.
 >Sythesized information from mulitple sources into cogent reports that informed mission-oriented strategies.
->Coordinated and re--structured board member nomination and screening processes, using relational databases to create reports that gave rich and robust .
+>Coordinated and re--structured board member nomination and screening processes, using relational Filemaker databases to create a unified repot that combined information from several sources and that provided the nominating committee with the most robust snapshot of each candidate and their involvement with our organization and others. 
+>>This reporting significantly reduced the amount of time necessary to nominate a new class. 
+
 
 
 
