@@ -48,7 +48,7 @@ Siobhan.k.quinlan@gmail.com
 
 >-Synthesized information from mulitple sources into cogent reports that informed mission-oriented strategies.
 
->-Coordinated and re-structured board member nomination and screening processes, using relational Filemaker databases to create a unified repot that combined information from several sources and that provided the nominating committee with the most robust snapshot of each candidate and their involvement with our organization and others. 
+>-Coordinated and re-structured board member nomination and screening processes, using relational Filemaker databases to create a unified report that combined information from several sources and that provided the nominating committee with the most robust snapshot of each candidate and their involvement with our organization and others. 
 
 >>-This reporting significantly reduced the amount of time necessary to nominate a new class. 
 
@@ -66,6 +66,8 @@ Siobhan.k.quinlan@gmail.com
 
 >-Organized and led training for team of baristas.
 
+###Other Skills and Interests
+Fluent in Italian, proficient in French and Latin.  Microsoft Office. FileMaker.  Enjoy traveling, yoga, swing dancing, baking and cooking, playing music, television, cinema.  
 
 
 
