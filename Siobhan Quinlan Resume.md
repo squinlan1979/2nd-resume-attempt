@@ -11,11 +11,36 @@
 
 ###Professional Experience
 **Yale University**, Department of Italian 
->*_Lector_* 2015-
+>*Lector* 2015-
 
->*_Lecturer_* 2014-2015
+>*Lecturer* 2014-2015
 >>Teaching Introductory Italian and "Food and the Italian Cultural Imagination"
 
 >>Previous teaching includes all levels of Introductory and Intermediate Italian. 
+
+**Yale University**, Yale Summer Session
+*Program Director and Instructor, Yale Summer Session in Siena, Italy
+>Led 8-week study abroad program for 49 students. 
+>Organized market, recruitment, and application and admission processes for the program.  
+>Identified and targeted populations on campus for an affinity for Italy or Italian-related subjects for enrollment in Introdcutory Italian.
+>Responsible for entire program budget and all financial transactions. 
+>Worked closely with Yale Summer Session staff, Yale faculty, and graduate student instructors to ensure successful execution of the program. 
+
+**Target Software** (Cambridge, MA) 
+*Senior Account Executive* 2006-2007
+>Provided operational support to non-profit clients using Target's Oracle-based fundraising database, Team Approach.
+>Collabroated with clients and software engineers to ensure client needs were met.
+>Created database queries using proprietary database and basic SQL.
+>Prepared and edited documentation for Team Approach procedures
+
+**WGBH (Public Broadcaster)** (Boston, MA)
+*Research Associate* 2003-2005
+>Conducted in-depth biographical and financial research on donors, using LexisNexis and other sources.
+>Sythesized information from mulitple sources into cogent reports that informed mission-oriented strategies.
+>Coordinated and re--structured board member nomination and screening processes, using relational databases to create reports that gave rich and robust .
+
+
+
+
 
 
