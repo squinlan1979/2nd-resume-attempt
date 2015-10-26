@@ -1,5 +1,5 @@
 ###Siobhan Quinlan
-1 &nbsp;&nbsp;&nbsp;&nbsp;I am attracted to programming because of how it engages curiosity, critical thinking, and creativity.
+**1** &nbsp;&nbsp;&nbsp;&nbsp;I am attracted to programming because of how it engages curiosity, critical thinking, and creativity.
 I rely on all of these in my work as a teacher and a researcher. I want to apply these in a new way, taking advantage of my
 technical aptitude.  My tech skills have so far been underutilized—in no small measure because of my own internalized ideas
 about who does high-tech work.  Growing up, the only people I saw using computers beyond word-processing were boys.  Programs
@@ -12,7 +12,7 @@ what was happening inside of the database, as well as how to extract data more e
 statements.  I have also completed the first set of HTML Basics on Codecademy.com.
 
 
-3 &nbsp;&nbsp;&nbsp;&nbsp;This past summer, while serving as the Director of the Yale Summer Session program in Italy, I made the
+**3** &nbsp;&nbsp;&nbsp;&nbsp;This past summer, while serving as the Director of the Yale Summer Session program in Italy, I made the
 mistake of thinking that I had to do everything on my own.  While leading our first field trip with a group of 49 students, I
 became flustered and overwhelmed by trying to keep track of so many students in a crowded town.  I quickly realized, though,
 that I had
@@ -26,7 +26,7 @@ operations.  I had major responsibilities, but I realized that doing my job well
 my colleagues had particular strengths that I was able to call upon in specific situations in order to complete program
 objectives effectively.
 
-4 &nbsp;&nbsp;&nbsp;&nbsp;In addition to the skills necessary to complete this application, I once taught myself to take apart 
+**4** &nbsp;&nbsp;&nbsp;&nbsp;In addition to the skills necessary to complete this application, I once taught myself to take apart 
 my sink and successfully put it back together again.
 
 &nbsp;&nbsp;&nbsp;&nbsp;One night, I dropped an earring down my bathroom sink.  I tried to fish it out, but determined that I
