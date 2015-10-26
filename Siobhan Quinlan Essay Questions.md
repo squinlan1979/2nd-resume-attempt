@@ -11,8 +11,20 @@ foreign language class.  My fundraising work involved heavy use of databases and
 what was happening inside of the database, as well as how to extract data more efficiently using custom reports and SQL
 statements.  I have also completed the first set of HTML Basics on Codecademy.com.
 
+**2** &nbsp;&nbsp;&nbsp;&nbsp;Over the next two years, in addition to developing the skills necessary to carry out all aspects
+of software development, I will grow an understanding of which parts of development appeal to me most.  At this point, I am
+particularly drawn to databases, but I am excited about developing competencies in a variety of areas of programming and I
+imagine that something new might capture my interest.  In two years I hope to be working on challenging projects that allow me
+to use and further develop my technical skills.  I hope, too, to be able to leverage my background in education, humanities, or
+international experience in a meaningful way for my employer and its clients.  	
 
-**3** &nbsp;&nbsp;&nbsp;&nbsp;This past summer, while serving as the Director of the Yale Summer Session program in Italy, I made the
+&nbsp;&nbsp;&nbsp;&nbsp;In five years, I see myself leading a group to develop products that will be of optimal use to consumers
+and that will create efficiencies without negatively impacting employment in other sectors.  The leadership and management
+skills that I have developed in pre-ADA work, combined with my technical skills, will make me an effective manager.  I believe
+that having more women in leadership positions in this field will have far-reaching benefits for consumers, for corporate
+culture and for young people exploring future career opportunities.
+
+**3** &nbsp;&nbsp;&nbsp;&nbsp;This past summer, while serving as the Director of Yale Summer Session's program in Italy, I made the
 mistake of thinking that I had to do everything on my own.  While leading our first field trip with a group of 49 students, I
 became flustered and overwhelmed by trying to keep track of so many students in a crowded town.  I quickly realized, though,
 that I had
