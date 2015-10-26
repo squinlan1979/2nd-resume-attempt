@@ -13,9 +13,9 @@ Siobhan.k.quinlan@gmail.com
 ####Professional Experience
 **Yale University**, Department of Italian 
 >*Lector* 2015-
->>-Teaching Introductory Italian and "Food and the Italian Cultural Imagination"
+>>-Teaching Introductory Italian and "Food and the Italian Cultural Imagination."
 
->>-Interact daily with students, tailoring my teaching approach to individual student needs
+>>-Interact daily with students, tailoring my teaching approach to individual student needs.
 
 >>-Present difficult concepts in a clear, effective, and engaging way.
 
@@ -48,7 +48,7 @@ Siobhan.k.quinlan@gmail.com
 
 >-Created database queries using proprietary database and basic SQL.
 
->-Prepared and edited documentation for Team Approach procedures
+>-Prepared and edited documentation for Team Approach procedures.
 
 **WGBH (Public Broadcaster)** (Boston, MA)
 
@@ -60,6 +60,13 @@ Siobhan.k.quinlan@gmail.com
 >-Coordinated and re-structured board member nomination and screening processes, using relational Filemaker databases to create a unified report that combined information from several sources and that provided the nominating committee with the most robust snapshot of each candidate and their involvement with our organization and others. 
 
 >>-This reporting significantly reduced the amount of time necessary to nominate a new class. 
+
+*Major Gifts Assistant* 2001-2003
+>-Managed system of gift processing, acknowledgements, revenue reporting and auditing.
+
+>-Drafted proposals and update reports for major donors.
+
+>-Database management for special events.
 
 ####Leadership Experience
 **Yale University** *McDougal Fellow for Graduate Student Life*, Blue Dog Café Fellow, 2012-2013
@@ -76,7 +83,7 @@ Siobhan.k.quinlan@gmail.com
 >-Organized and led training for team of baristas.
 
 ####Other Skills and Interests
-Fluent in Italian, proficient in French and Latin.  Microsoft Office. FileMaker.  Enjoy traveling, yoga, swing dancing, baking and cooking, playing music, television, cinema.  
+Fluent in Italian, proficient in French and Latin.  Microsoft Office. FileMaker.  Enjoy traveling, yoga, swing dancing, baking and cooking, playing music, television, cinema, translating.  
 
 
 
