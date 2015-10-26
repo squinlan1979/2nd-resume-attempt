@@ -3,7 +3,6 @@
 
 Siobhan.k.quinlan@gmail.com
 
-
 ####Education
 **Yale University**, Ph.D. in Italian Literature, 2014
 
@@ -23,6 +22,7 @@ Siobhan.k.quinlan@gmail.com
 >>-Cooperate with team of instructor to ensure course consistency and to prepare exams.
 
 >*Lecturer* 2014-2015
+
 >*Part-time Acting Instructor* 2009-2013
 >>-Teaching included all levels of Introductory and Intermediate Italian. 
 
