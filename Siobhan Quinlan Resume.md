@@ -13,29 +13,29 @@ Siobhan.k.quinlan@gmail.com
 ####Professional Experience
 **Yale University**, Department of Italian (New Haven, CT)
 
-*Lector* 2015-
+*Lector* &nbsp;&nbsp;&nbsp;&nbsp;2015-
 >-Currently teaching Introductory Italian and "Food and the Italian Cultural Imagination."
 
->-Interact daily with students, tailoring my teaching approach to individual students'needs.
+>-Interact daily with students, tailoring my teaching approach to individual students' needs.
 
 >-Present difficult concepts in a clear, effective, and engaging way.
 
 >-Collaborate with team of instructors to ensure course consistency and to prepare exams.
 
-*Lecturer* 2014-2015
+*Lecturer* &nbsp;&nbsp;&nbsp;&nbsp;2014-2015
 
-*Part-time Acting Instructor* 2009-2013
+*Part-time Acting Instructor* &nbsp;&nbsp;&nbsp;&nbsp;2009-2013
 >-Teaching included all levels of Introductory and Intermediate Italian. 
 
 **Yale University**, Yale Summer Session (Siena, Italy)
 
-*Program Director and Instructor* 
+*Program Director and Instructor* &nbsp;&nbsp;&nbsp;&nbsp;2015
 >-Led 8-week study abroad program for 49 students.
 
 >-Organized marketing, recruitment, and application and admission processes for the program.  
 
->-Identified and targeted populations on campus with an affinity for Italy or Italian-related subjects to increaseenrollment in
-Introductory Italian.
+>-Identified and targeted populations on campus with an affinity for Italy or Italian-related subjects to increase
+enrollment in Introductory Italian.
 
 >-Responsible for entire program budget and all financial transactions. 
 
@@ -43,9 +43,11 @@ Introductory Italian.
 
 >-Worked closely with Yale Summer Session staff, Yale faculty, and graduate student instructors to ensure successful execution of the program. 
 
+>-Taught intensive Intermediate Italian course.
+
 **Target Software** *(later purchased by Blackbaud, Inc.)* (Cambridge, MA) 
 
-*Senior Account Executive* 2006-2007
+*Senior Account Executive* &nbsp;&nbsp;&nbsp;&nbsp;2006-2007
 >-Provided operational support to non-profit clients using Target's Oracle-based fundraising database, Team Approach.
 
 >-Collaborated with clients and software engineers to ensure client needs were met.
@@ -56,27 +58,28 @@ Introductory Italian.
 
 **WGBH (Public Broadcaster)** (Boston, MA)
 
-*Research Associate* 2003-2005
+*Research Associate* &nbsp;&nbsp;&nbsp;&nbsp;2003-2005
 >-Conducted in-depth biographical and financial research on donors, using LexisNexis and other sources.
 
->-Synthesized information from mulitple sources into cogent reports that informed mission-oriented strategies.
+>-Synthesized information from multiple sources into cogent reports that informed mission-oriented strategies.
 
->-Coordinated and re-structured board member nomination and screening processes, creating relational Filemaker databases in
+>-Coordinated and re-structured board member nomination and screening processes, creating relational FileMaker databases in
 order to compile a unified report that combined information from several sources and that provided the nominating committee with
 the most robust, easy-to-read snapshot of each candidate and their involvement with our organization and others. 
 
 >>-This reporting significantly reduced the amount of time necessary to nominate a new class. 
 
-*Major Gifts Assistant* 2001-2003
+*Major Gifts Assistant* &nbsp;&nbsp;&nbsp;&nbsp;2001-2003
 >-Managed system of gift processing, acknowledgements, revenue reporting and auditing.
 
 >-Drafted proposals and update reports for major donors.
 
->-Database management for special events.
+>-Managed special events databases.
 
-####Leadership Experience
-**Yale University Graduate School of Arts and Sciences** 
-*McDougal Fellow for Graduate Student Life*--Blue Dog Café Fellow 2012-2013
+####Related Leadership Experience
+**Yale University Graduate School of Arts and Sciences** (New Haven, CT)
+
+*McDougal Fellow for Graduate Student Life*--Blue Dog Café Fellow &nbsp;&nbsp;&nbsp;&nbsp;2012-2013
 >-Selected as Fellow after competitive interview and selection process. 
 
 >-Part of team of 20 student leaders who worked collaboratively to provide social, informational, and community-building activities and services for Yale graduate students. 
