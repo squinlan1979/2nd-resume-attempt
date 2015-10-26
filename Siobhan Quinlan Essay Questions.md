@@ -25,3 +25,17 @@ easier.
 operations.  I had major responsibilities, but I realized that doing my job well did not mean doing everything myself.  Each of
 my colleagues had particular strengths that I was able to call upon in specific situations in order to complete program
 objectives effectively.
+
+4 &nbsp;&nbsp;&nbsp;&nbsp;In addition to the skills necessary to complete this application, I once taught myself to take apart 
+my sink and successfully put it back together again.
+
+&nbsp;&nbsp;&nbsp;&nbsp;One night, I dropped an earring down my bathroom sink.  I tried to fish it out, but determined that I
+needed to take the pipe apart.  I looked carefully at the pipes to understand how they fit together, and how they function.  I
+consulted Google.  Based on diagrams online, I was able to understand how to take out the U-Pipe, while also catching the water
+that was freed from the sink.  I retrieved my earring.  While reassembling the pipes, I had to reconnect the mechanism that
+controls the drain plug.  I saw how it interacted with the pipes, set it in place, and screwed the pipes back together.  It was
+not easy, but I was determined and I saw it through. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;As always when I’m learning something, I like to have a macro-level understanding of how that thing 
+works.  With this knowledge, I understand, assimilate, and remember micro-level information much better.  I am also a tenacious 
+learner and do not quit until I understand what I have set out to learn.
