@@ -1,10 +1,10 @@
 ###Siobhan Quinlan
 **1** &nbsp;&nbsp;&nbsp;&nbsp;I am attracted to programming because of how it engages curiosity, critical thinking, and creativity.
 I rely on all of these in my work as a teacher and a researcher. I want to apply these in a new way, taking advantage of my
-technical aptitude.  My tech skills have so far been underutilized—in no small measure because of my own internalized ideas
-about who does high-tech work.  Growing up, the only people I saw using computers beyond word-processing were boys.  Programs
-like ADA, as well as female colleagues at Yale who use coding in their work, have underscored for me that women not only have a
-place in programming, but they have an important voice that has not been fully heard yet.  
+technical and linguistic aptitude.  My tech skills have so far been underutilized—in no small measure because of my own 
+internalized ideas about who does high-tech work.  Growing up, the only people I saw using computers beyond word-processing were
+boys. Programs like ADA, as well as female colleagues at Yale who use coding in their work, have underscored for me that women
+not only have a place in programming, but they have an important voice that has not been fully heard yet.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;I have been exposed to programming directly and indirectly at work and in classes.  I used Dreamweaver to make a Web site for a
 foreign language class.  My fundraising work involved heavy use of databases and Excel.  At Target Software, I excitedly learned
@@ -39,9 +39,9 @@ my colleagues had particular strengths that I was able to call upon in specific 
 objectives effectively.
 
 **4** &nbsp;&nbsp;&nbsp;&nbsp;In addition to some of the skills necessary to complete this application, I taught myself to take apart 
-my sink and successfully put it back together.
+my sink and put it back together.
 
-&nbsp;&nbsp;&nbsp;&nbsp;One night, I dropped an earring down my bathroom sink.  I tried to fish it out, but determined that I
+&nbsp;&nbsp;&nbsp;&nbsp;One night, I dropped an earring down my sink.  I tried to fish it out, but determined that I
 needed to take the pipe apart.  I looked carefully at the pipes to understand how they fit together, and how they function.  I
 consulted Google, and based on diagrams online, I was able to understand how to take out the U-Pipe, while also catching the water
 that was freed from the sink.  I retrieved my earring!  While reassembling the pipes, I had to reconnect the mechanism that
