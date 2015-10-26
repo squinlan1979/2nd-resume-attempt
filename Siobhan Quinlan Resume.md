@@ -11,31 +11,35 @@ Siobhan.k.quinlan@gmail.com
 **Harvard University**, B.A. in Romance Languages and Literature, 2001
 
 ####Professional Experience
-**Yale University**, Department of Italian 
->*Lector* 2015-
->>-Teaching Introductory Italian and "Food and the Italian Cultural Imagination."
+**Yale University**, Department of Italian (New Haven, CT)
 
->>-Interact daily with students, tailoring my teaching approach to individual student needs.
+*Lector* 2015-
+>-Currently teaching Introductory Italian and "Food and the Italian Cultural Imagination."
 
->>-Present difficult concepts in a clear, effective, and engaging way.
+>-Interact daily with students, tailoring my teaching approach to individual students'needs.
 
->>-Cooperate with team of instructor to ensure course consistency and to prepare exams.
+>-Present difficult concepts in a clear, effective, and engaging way.
 
->*Lecturer* 2014-2015
+>-Collaborate with team of instructors to ensure course consistency and to prepare exams.
 
->*Part-time Acting Instructor* 2009-2013
->>-Teaching included all levels of Introductory and Intermediate Italian. 
+*Lecturer* 2014-2015
 
-**Yale University**, Yale Summer Session
+*Part-time Acting Instructor* 2009-2013
+>-Teaching included all levels of Introductory and Intermediate Italian. 
 
-*Program Director and Instructor*, Yale Summer Session in Siena, Italy
+**Yale University**, Yale Summer Session (Siena, Italy)
+
+*Program Director and Instructor* 
 >-Led 8-week study abroad program for 49 students.
 
 >-Organized marketing, recruitment, and application and admission processes for the program.  
 
->-Identified and targeted populations on campus for an affinity for Italy or Italian-related subjects for enrollment in Introductory Italian.
+>-Identified and targeted populations on campus with an affinity for Italy or Italian-related subjects to increaseenrollment in
+Introductory Italian.
 
 >-Responsible for entire program budget and all financial transactions. 
+
+>-Planned all program-related excursions and travel. 
 
 >-Worked closely with Yale Summer Session staff, Yale faculty, and graduate student instructors to ensure successful execution of the program. 
 
@@ -44,7 +48,7 @@ Siobhan.k.quinlan@gmail.com
 *Senior Account Executive* 2006-2007
 >-Provided operational support to non-profit clients using Target's Oracle-based fundraising database, Team Approach.
 
->-Collabroated with clients and software engineers to ensure client needs were met.
+>-Collaborated with clients and software engineers to ensure client needs were met.
 
 >-Created database queries using proprietary database and basic SQL.
 
@@ -57,7 +61,9 @@ Siobhan.k.quinlan@gmail.com
 
 >-Synthesized information from mulitple sources into cogent reports that informed mission-oriented strategies.
 
->-Coordinated and re-structured board member nomination and screening processes, using relational Filemaker databases to create a unified report that combined information from several sources and that provided the nominating committee with the most robust snapshot of each candidate and their involvement with our organization and others. 
+>-Coordinated and re-structured board member nomination and screening processes, creating relational Filemaker databases in
+order to compile a unified report that combined information from several sources and that provided the nominating committee with
+the most robust, easy-to-read snapshot of each candidate and their involvement with our organization and others. 
 
 >>-This reporting significantly reduced the amount of time necessary to nominate a new class. 
 
@@ -69,7 +75,8 @@ Siobhan.k.quinlan@gmail.com
 >-Database management for special events.
 
 ####Leadership Experience
-**Yale University** *McDougal Fellow for Graduate Student Life*, Blue Dog Café Fellow, 2012-2013
+**Yale University Graduate School of Arts and Sciences** 
+*McDougal Fellow for Graduate Student Life*--Blue Dog Café Fellow 2012-2013
 >-Selected as Fellow after competitive interview and selection process. 
 
 >-Part of team of 20 student leaders who worked collaboratively to provide social, informational, and community-building activities and services for Yale graduate students. 
@@ -78,9 +85,7 @@ Siobhan.k.quinlan@gmail.com
 
 >-Managed on-campus, student-run coffee shop with annual sales of roughly $35,000.
 
->-Supervised staff of ten student baristas.
-
->-Organized and led training for team of baristas.
+>-Supervised and trained staff of ten student baristas.
 
 ####Other Skills and Interests
 Fluent in Italian, proficient in French and Latin.  Microsoft Office. FileMaker.  Enjoy traveling, yoga, swing dancing, baking and cooking, playing music, television, cinema, translating.  
