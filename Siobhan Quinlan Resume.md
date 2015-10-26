@@ -34,7 +34,7 @@ Siobhan.k.quinlan@gmail.com
 
 >-Organized marketing, recruitment, and application and admission processes for the program.  
 
->-Identified and targeted populations on campus with an affinity for Italy or Italian-related subjects to increase
+>-Identified and targeted populations on campus with an affinity for Italy or Italian-related subjects in order to increase
 enrollment in Introductory Italian.
 
 >-Responsible for entire program budget and all financial transactions. 
@@ -82,16 +82,16 @@ the most robust, easy-to-read snapshot of each candidate and their involvement w
 *McDougal Fellow for Graduate Student Life*--Blue Dog Café Fellow &nbsp;&nbsp;&nbsp;&nbsp;2012-2013
 >-Selected as Fellow after competitive interview and selection process. 
 
->-Part of team of 20 student leaders who worked collaboratively to provide social, informational, and community-building activities and services for Yale graduate students. 
-
->-Coordinated with Yale Health Serivices staff to recruit, train, and deploy a team of 20 student tour guides during graduate school orientation.   
+>-Part of team of 20 student leaders who worked collaboratively to provide social, informational, and community-building 
+activities and services for Yale graduate students. 
 
 >-Managed on-campus, student-run coffee shop with annual sales of roughly $35,000.
 
 >-Supervised and trained staff of ten student baristas.
 
 ####Other Skills and Interests
-Fluent in Italian, proficient in French and Latin.  Microsoft Office. FileMaker.  Enjoy traveling, yoga, swing dancing, baking and cooking, playing music, television, cinema, translating.  
+Fluent in Italian, proficient in French and Latin.  Microsoft Office. FileMaker.  Enjoy traveling, yoga, swing dancing, baking 
+and cooking, playing music, television, cinema, translating.  
 
 
 
