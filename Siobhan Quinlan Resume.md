@@ -1,17 +1,17 @@
-##Siobhan K. Quinlan, Ph.D.
+###Siobhan K. Quinlan, Ph.D.
 96 Livingston St., Apt 8, New Haven, CT 
 
 Siobhan.k.quinlan@gmail.com
 
 
-###Education
+####Education
 **Yale University**, Ph.D. in Italian Literature, 2014
 
 **Middlebury College**, M.A. in Italian Literature, 2006
 
 **Harvard University**, B.A. in Romance Languages and Literature, 2001
 
-###Professional Experience
+####Professional Experience
 **Yale University**, Department of Italian 
 >*Lector* 2015-
 
@@ -21,7 +21,8 @@ Siobhan.k.quinlan@gmail.com
 >>Previous teaching includes all levels of Introductory and Intermediate Italian. 
 
 **Yale University**, Yale Summer Session
-*Program Director and Instructor, Yale Summer Session in Siena, Italy
+
+*Program Director and Instructor*, Yale Summer Session in Siena, Italy
 >-Led 8-week study abroad program for 49 students.
 
 >-Organized market, recruitment, and application and admission processes for the program.  
@@ -33,6 +34,7 @@ Siobhan.k.quinlan@gmail.com
 >-Worked closely with Yale Summer Session staff, Yale faculty, and graduate student instructors to ensure successful execution of the program. 
 
 **Target Software** *(later purchased by Blackbaud, Inc.)* (Cambridge, MA) 
+
 *Senior Account Executive* 2006-2007
 >-Provided operational support to non-profit clients using Target's Oracle-based fundraising database, Team Approach.
 
@@ -43,6 +45,7 @@ Siobhan.k.quinlan@gmail.com
 >-Prepared and edited documentation for Team Approach procedures
 
 **WGBH (Public Broadcaster)** (Boston, MA)
+
 *Research Associate* 2003-2005
 >-Conducted in-depth biographical and financial research on donors, using LexisNexis and other sources.
 
@@ -52,7 +55,7 @@ Siobhan.k.quinlan@gmail.com
 
 >>-This reporting significantly reduced the amount of time necessary to nominate a new class. 
 
-###Leadership Experience
+####Leadership Experience
 **Yale University** *McDougal Fellow for Graduate Student Life*, Blue Dog Café Fellow, 2012-2013
 >-Selected as Fellow after competitive interview and selection process. 
 
@@ -66,7 +69,7 @@ Siobhan.k.quinlan@gmail.com
 
 >-Organized and led training for team of baristas.
 
-###Other Skills and Interests
+####Other Skills and Interests
 Fluent in Italian, proficient in French and Latin.  Microsoft Office. FileMaker.  Enjoy traveling, yoga, swing dancing, baking and cooking, playing music, television, cinema.  
 
 
