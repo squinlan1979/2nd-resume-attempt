@@ -56,7 +56,7 @@ enrollment in Introductory Italian.
 
 >-Prepared and edited documentation for Team Approach procedures.
 
-**WGBH (Public Broadcaster)** &nbsp;&nbsp;&nbsp;&nbsp;(Boston, MA)
+**WGBH** *(Public Broadcaster)* &nbsp;&nbsp;&nbsp;&nbsp;(Boston, MA)
 
 *Research Associate* &nbsp;&nbsp;&nbsp;&nbsp;2003-2005
 >-Conducted in-depth biographical and financial research on donors, using LexisNexis and other sources.
