@@ -11,7 +11,7 @@ Siobhan.k.quinlan@gmail.com
 **Harvard University**, B.A. in Romance Languages and Literature, 2001
 
 ####Professional Experience
-**Yale University**, Department of Italian (New Haven, CT)
+**Yale University**, Department of Italian &nbsp;&nbsp;&nbsp;&nbsp;(New Haven, CT)
 
 *Lector* &nbsp;&nbsp;&nbsp;&nbsp;2015-
 >-Currently teaching Introductory Italian and "Food and the Italian Cultural Imagination."
@@ -27,7 +27,7 @@ Siobhan.k.quinlan@gmail.com
 *Part-time Acting Instructor* &nbsp;&nbsp;&nbsp;&nbsp;2009-2013
 >-Teaching included all levels of Introductory and Intermediate Italian. 
 
-**Yale University**, Yale Summer Session (Siena, Italy)
+**Yale University**, Yale Summer Session &nbsp;&nbsp;&nbsp;&nbsp;(Siena, Italy)
 
 *Program Director and Instructor* &nbsp;&nbsp;&nbsp;&nbsp;2015
 >-Led 8-week study abroad program for 49 students.
@@ -45,7 +45,7 @@ enrollment in Introductory Italian.
 
 >-Taught intensive Intermediate Italian course.
 
-**Target Software** *(later purchased by Blackbaud, Inc.)* (Cambridge, MA) 
+**Target Software** *(later purchased by Blackbaud, Inc.)* &nbsp;&nbsp;&nbsp;&nbsp;(Cambridge, MA) 
 
 *Senior Account Executive* &nbsp;&nbsp;&nbsp;&nbsp;2006-2007
 >-Provided operational support to non-profit clients using Target's Oracle-based fundraising database, Team Approach.
@@ -56,7 +56,7 @@ enrollment in Introductory Italian.
 
 >-Prepared and edited documentation for Team Approach procedures.
 
-**WGBH (Public Broadcaster)** (Boston, MA)
+**WGBH (Public Broadcaster)** &nbsp;&nbsp;&nbsp;&nbsp;(Boston, MA)
 
 *Research Associate* &nbsp;&nbsp;&nbsp;&nbsp;2003-2005
 >-Conducted in-depth biographical and financial research on donors, using LexisNexis and other sources.
@@ -77,7 +77,7 @@ the most robust, easy-to-read snapshot of each candidate and their involvement w
 >-Managed special events databases.
 
 ####Related Leadership Experience
-**Yale University Graduate School of Arts and Sciences** (New Haven, CT)
+**Yale University Graduate School of Arts and Sciences** &nbsp;&nbsp;&nbsp;&nbsp;(New Haven, CT)
 
 *McDougal Fellow for Graduate Student Life*--Blue Dog Café Fellow &nbsp;&nbsp;&nbsp;&nbsp;2012-2013
 >-Selected as Fellow after competitive interview and selection process. 
