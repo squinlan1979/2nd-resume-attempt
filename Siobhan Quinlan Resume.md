@@ -14,20 +14,26 @@ Siobhan.k.quinlan@gmail.com
 ####Professional Experience
 **Yale University**, Department of Italian 
 >*Lector* 2015-
+>>-Teaching Introductory Italian and "Food and the Italian Cultural Imagination"
+
+>>-Interact daily with students, tailoring my teaching approach to individual student needs
+
+>>-Present difficult concepts in a clear, effective, and engaging way.
+
+>>-Cooperate with team of instructor to ensure course consistency and to prepare exams.
 
 >*Lecturer* 2014-2015
->>Teaching Introductory Italian and "Food and the Italian Cultural Imagination"
-
->>Previous teaching includes all levels of Introductory and Intermediate Italian. 
+>*Part-time Acting Instructor* 2009-2013
+>>-Teaching included all levels of Introductory and Intermediate Italian. 
 
 **Yale University**, Yale Summer Session
 
 *Program Director and Instructor*, Yale Summer Session in Siena, Italy
 >-Led 8-week study abroad program for 49 students.
 
->-Organized market, recruitment, and application and admission processes for the program.  
+>-Organized marketing, recruitment, and application and admission processes for the program.  
 
->-Identified and targeted populations on campus for an affinity for Italy or Italian-related subjects for enrollment in Introdcutory Italian.
+>-Identified and targeted populations on campus for an affinity for Italy or Italian-related subjects for enrollment in Introductory Italian.
 
 >-Responsible for entire program budget and all financial transactions. 
 
